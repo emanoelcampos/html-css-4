@@ -8,8 +8,9 @@
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
-    clear: left;
+    clear: left;   
 }
+
 
 .principal {
     padding: 3em 0;
@@ -72,6 +73,10 @@
 .mapa p {
     margin: 0 0 2em;
     text-align: center;
+}
+
+.itens:before {
+    content: "⭐";
 }
 
 .beneficios {
