@@ -6,6 +6,12 @@ Este repositório contém o material do quarto curso de HTML e CSS para iniciant
 
 O projeto desenvolvido durante o curso consistiu na criação de uma página web estática utilizando HTML e CSS. Além de reforçar os conceitos aprendidos no curso anterior, novos conceitos foram introduzidos e aplicados no projeto, como o design responsivo. Esse foi o último curso e você pode conferir como o projeto completo ficou clicando [aqui](https://emanoelcampos.github.io/html-css-4/).
 
+
+<div align="center">
+<img alt="página projeto" height="503" width="700" src="https://raw.githubusercontent.com/emanoelcampos/html-css-3/master/assets/readme-img.png">
+ </div>
+
+
 ## Assuntos abordados no curso:
 
 - Ajustar a página principal para utilizar os mesmos padrões da página de produtos
