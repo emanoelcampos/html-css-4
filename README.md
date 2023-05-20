@@ -16,7 +16,7 @@ O projeto desenvolvido durante o curso consistiu na criação de uma página web
 
 - Ajustar a página principal para utilizar os mesmos padrões da página de produtos
 - Medidas proporcionais com CSS
-- Como funciona a flutuação dos elementos e como modificá-la, com a propriedade float do CSS
+- Como funciona a flutuação dos elementos e como modificá-la, com a propriedade `float` do CSS
 - Como limpar o float, com a propriedade `clear` do CSS
 - Utilizar fontes externas nas nossas páginas
 - Incorporar um mapa à nossa página
